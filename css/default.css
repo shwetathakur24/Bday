@@ -15,6 +15,6 @@ body{margin:0;padding:0;background:rgba(7, 153, 195, 0.29);font-size:12px;overfl
 #code .placeholder{margin-left:15px}
 #code .space{margin-left:7px}
 #code .comments{color:#0b7d79}
-#copyright{margin-top:10px;text-align:center;width:100%;color:#666}
+#copyright{margin-top:10px;text-align:right;width:100%;color:#666}
 #errorMsg{width:100%;text-align:center;font-size:24px;position:absolute;top:100px;left:0}
 #copyright a{color:#666}

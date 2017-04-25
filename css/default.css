@@ -1,4 +1,4 @@
-body{margin:0;padding:0;background:url("Capture1.jpg");font-size:12px;overflow:auto}
+body{margin:0;padding:0;background:url("Capture.png");font-size:12px;overflow:auto}
 #mainDiv{width:100%;height:100%}
 #loveHeart{float:left;width:670px;height:625px}
 #garden{width:100%;height:100%}
@@ -9,7 +9,9 @@ body{margin:0;padding:0;background:url("Capture1.jpg");font-size:12px;overflow:a
 #loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:120px;text-align:right;display:none}
 #loveu .signature{margin-top:10px;font-size:20px;font-style:italic}
 #clickSound{display:none}
-#code{float:left;width:480px;height:400px;color:#790065;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px font-weight:bold}
+#code{float:left;width:440px;height:400px;color:#790065;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px font-weight:bold}
+#code1{float:left;width:1000px;height:400px;color:#790065;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px font-weight:bold}
+#code2{float:center;width:1000px;height:400px;color:#790065;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px font-weight:bold}
 #code .string{color:#2a36ff}
 #code .keyword{color:#7f0055;font-weight:bold}
 #code .placeholder{margin-left:15px}
